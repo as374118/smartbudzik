@@ -36,5 +36,12 @@ wstać przed zajęciami, by na nie zdążyć, po czym kliknąć przycisk „usta
 dnia to musi wcisnąć w odpowiedni dzień tygodnia. Ukarze mu się plan dnia, po którym będziemy mógł przesunąć drag&drop na
 odpowiednia porę do wstania.
 
+![alarm_settings][alarm_settings]
+
   Wszystkie zmiany będą zapisywane automatycznie. Użycie powyżej opisanego usecase’u spowoduje, że budzik się włączy w wybranym
 przez użytkownika czasie.
+
+[alarm_settings]: https://raw.githubusercontent.com/jbujak/smartbudzik/master/mockups/alarm_settings.png
+[calendar_demo]: https://github.com/jbujak/smartbudzik/blob/master/mockups/calendar_demo.png?raw=true
+[general_settings]: https://github.com/jbujak/smartbudzik/blob/master/mockups/general_settings.png?raw=true
+[task_solved]: https://github.com/jbujak/smartbudzik/blob/master/mockups/task_solved.png?raw=true
